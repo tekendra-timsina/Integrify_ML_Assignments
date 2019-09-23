@@ -1,0 +1,2 @@
+This is just a test file to test my git push and .gitignore.
+I am trying to see if creation of branch worked. Yes. it worked.

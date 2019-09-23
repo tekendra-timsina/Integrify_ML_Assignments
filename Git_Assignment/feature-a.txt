@@ -1,0 +1,1 @@
+Hello all, I am testing the git branch features. I am trying to see how the --amend options work. it is not clear yet so i am trying again. i felt now i understood its use. cool 
