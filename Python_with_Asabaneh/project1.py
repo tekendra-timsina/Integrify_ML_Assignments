@@ -1,5 +1,8 @@
 def find_most_common_words(filename, x):
+<<<<<<< HEAD
     
+=======
+>>>>>>> f6181b96b024f67acdf4fc41c064ae3f4da260a1
     ''' This function will take two inputs, 
     one is sample text to look for most common words 
     and the next one is the number of most common words'''

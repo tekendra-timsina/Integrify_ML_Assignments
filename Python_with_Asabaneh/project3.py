@@ -9,9 +9,9 @@ class StatSummary:
     def median(self):
         sorted_val = sorted(self.values)
         if self.index%2 == 0:
-            return (sorted_val[round((self.index/2)-1)]+sorted_val[round(((self.index/2)+1)-1)])/2
+            return (sorted_val[(self.index//2)-1]+sorted_val[((self.index//2)+1)-1])/2
         else:
-            return sorted_val[round(((self.index+1)/2))-1]
+            return sorted_val[((self.index+1)/2)-1]
     
     def mode(self):
         a_dict = {}
